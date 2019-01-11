@@ -5,16 +5,19 @@
 * **Schedule:** 2-5PM, Fridays
 * **Instructor:**
     * Nathan Zimmerman, [npzimmerman@gmail.com](mailto:npzimmerman@gmail.com)
-* **Teaching Assistant:** Ge (Chloe) Qu, [gequ@design.upenn.edu](mailto:gequ@design.upenn.edu)
+    * Ross Bernet, [ross.bernet@gmail.com](mailto:ross.bernet@gmail.com)
+* **Teaching Assistant:** 
+    * Huiling (Ling) He, [huilingh@design.upenn.edu](huilingh@design.upenn.edu)
 * **Office Hours:**
     * Nathan Zimmerman: 12-1 Fridays @ The Graduate Student Center
-    * Ge (Chloe) Qu: TBD
+    * Ross Bernet: TBD
+    * Ling He: TBD
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/CPLN-692-401/syllabus.svg)](https://gitter.im/CPLN-692-401/Lobby)
+    * [![Gitter](https://badges.gitter.im/CPLN-692-401/syllabus.svg)](https://gitter.im/https://gitter.im/CPLN-MUSA-Spring-2019/community)
     * Internet Search ([stack overflow](https://stackoverflow.com/) is your friend!)
 
 ## Software
-* [Atom Editor](https://atom.io/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [GitHub Desktop](https://desktop.github.com/)
 
 ## Supplementary resources
@@ -89,7 +92,7 @@ you're familiar with github).
 #### Week 1 - Getting started
 * Introductions
 * Using Git and Github
-* Atom Text Editor
+* Visual Studio Code Text Editor
 * First steps with Javascript
 * Our first online map
 
