@@ -1,15 +1,15 @@
-# Javascript and HTML Programming for Planning and Urban Management Applications
+# Introduction to Web Mapping - Spring 2019
 
 # Syllabus
 
-* **Course:**   // NOPE CPLN-692-401, University of Pennsylvania
-* **Location:** // NOPE Meyerson Hall B13
-* **Schedule:** // NOPE 2-5PM, Fridays
+* **Course:**   CPLN-692-401, University of Pennsylvania
+* **Location:** Meyerson Hall B2
+* **Schedule:** 2-5PM, Fridays
 * **Instructor:**
     * Nathan Zimmerman, [npzimmerman@gmail.com](mailto:npzimmerman@gmail.com)
     * Ross Bernet, [ross.bernet@gmail.com](mailto:ross.bernet@gmail.com)
 * **Teaching Assistant:**
-    * Huiling (Ling) He, [huilingh@design.upenn.edu](huilingh@design.upenn.edu)
+    * Huiling (Ling) He, [huilingh@design.upenn.edu](mailto:huilingh@design.upenn.edu)
 * **Office Hours:**
     * Nathan Zimmerman: TBD
     * Ross Bernet: TBD
