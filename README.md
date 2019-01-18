@@ -2,20 +2,15 @@
 
 # Syllabus
 
-* **Course:**   CPLN-692-401, University of Pennsylvania
+* **Course:**   CPLN-692-401/MUSA-611-401, University of Pennsylvania
 * **Location:** Meyerson Hall B2
 * **Schedule:** 2-5PM, Fridays
 * **Instructor:**
     * Nathan Zimmerman, [npzimmerman@gmail.com](mailto:npzimmerman@gmail.com)
-    * Ross Bernet, [ross.bernet@gmail.com](mailto:ross.bernet@gmail.com)
-* **Teaching Assistant:**
-    * Huiling (Ling) He, [huilingh@design.upenn.edu](mailto:huilingh@design.upenn.edu)
 * **Office Hours:**
-    * Nathan Zimmerman: TBD
-    * Ross Bernet: TBD
-    * Huiling He: TBD
+    * Nathan Zimmerman: Friday 12:00PM-1:30PM (and special request as necessary)
 * **Need help?**
-    * [![Gitter]()]()
+    * [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/MUSA611-CPLN692-spring2020/community#)
     * Internet Search ([stack overflow](https://stackoverflow.com/) is your friend!)
 * [Map-based Web Application Examples](./webmap-examples.md)
 * [Data Sources](./datasources.md)
@@ -63,10 +58,10 @@ will be added to reflect the content of each week.
 | A-    | 90-92  | B-    | 80–82 | C-    | 70–72 |
 
 * Assessment Method / Grading Criteria:
-    * Participation, attendance, and homework: 50%
-    * Midterm Project: 15%
+    * Participation, attendance, and homework: 20%
+    * Midterm Project: 30%
     * Final Project Proposal: 5%
-    * Final Project:  30%
+    * Final Project:  45%
 
 ### Weekly repositories
 Each week will have a different repository with the seed for that week's
@@ -92,6 +87,7 @@ more transparent for grading purposes (this will make more sense once
 you're familiar with github).
 
 ### Course Schedule
+> Subject to change as necessary!
 
 #### Week 1 - Getting started
 * Introductions and university boilerplate
