@@ -1,4 +1,4 @@
-# Introduction to Web Mapping - Spring 2019
+# Introduction to Web Mapping - Spring 2020
 
 # Syllabus
 
