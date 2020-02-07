@@ -8,7 +8,7 @@
 * **Instructor:**
     * Nathan Zimmerman, [npzimmerman@gmail.com](mailto:npzimmerman@gmail.com)
 * **Office Hours:**
-    * Nathan Zimmerman: Friday 12:00PM-1:30PM (and special request as necessary)
+    * Nathan Zimmerman: Friday 12:00PM-1:30PM @the GSC (and special request as necessary)
 * **Need help?**
     * [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/MUSA611-CPLN692-spring2020/community#)
     * Internet Search ([stack overflow](https://stackoverflow.com/) is your friend!)
@@ -116,8 +116,8 @@ you're familiar with github).
     * Refactoring code
 
 #### Week 4 - jQuery
-* Github review
 * Introduction to jQuery
+* Async behaviors
 
 #### Week 5 - HTML & CSS
 
