@@ -149,6 +149,7 @@ you're familiar with github).
 * Advanced debugging
 * Vector tiles
 * node.js (writing javascript for the server)
+* Google Earth Engine
 
 ### Academic Integrity
 In compliance with Penn's
