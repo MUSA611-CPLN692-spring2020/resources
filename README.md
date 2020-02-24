@@ -11,7 +11,7 @@
     * Yixuan Hu (Emily), [arena_hu@hotmail.com](mailto:arena_hu@hotmail.com)
 * **Office Hours:**
     * Nathan Zimmerman: Friday 12:00PM-1:30PM @the GSC (and special request as necessary)
-    * Emily: Wednesday 5:30PM-6:30PM @Meyerson Basement (and special request as necessary)
+    * Emily: Tuesday 5:30PM-6:30PM @Meyerson Basement (and special request as necessary)
 * **Need help?**
     * [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/MUSA611-CPLN692-spring2020/community#)
     * Internet Search ([stack overflow](https://stackoverflow.com/) is your friend!)
